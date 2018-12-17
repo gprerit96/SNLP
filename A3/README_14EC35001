@@ -1,0 +1,10 @@
+
+README for Assignment 3 code
+Name : Prerit Gupta
+Roll No: 14EC35001
+
+(1) All cells in the .ipynb file need to be run sequentially.
+(2) The train data file should be at the location "UD_Hindi/hi-ud-train.conllu" in the same location containing code.
+(3) The test data file should be at the location "UD_Hindi/hi-ud-test.conllu" in the same location containing code.
+(4) The NLTK classes are copied directly into the cells and the required changes in the train function of the TransitionParser class is done
+(5) Individual cells are written to find the training and testing scores for the Arc-Standard & Arc-Eager methods of following classifiers : SVM, Logistic Regression & MLP
