@@ -11,9 +11,9 @@ The Assignments are on the following topics:
         + 1.2.2 Good Turing Smoothing \
     > 1.3 Interpolation Method
 
-(2) Assignment 2: Named Entity Recognition (NER) / Parts-of-Speech (POS) tagging \
-        + 2.1 Hidden Markov Model (HMM)\
-    2.2 Conditional Random Field (CRF)
++ (2) Assignment 2: Named Entity Recognition (NER) / Parts-of-Speech (POS) tagging \
+    - 2.1 Hidden Markov Model (HMM)\
+    - 2.2 Conditional Random Field (CRF)
 
 (3) Assignment 3: Dependency Parsing\
     3.1 Arc-eager transition\
